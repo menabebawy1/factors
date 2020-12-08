@@ -4,7 +4,10 @@ using namespace std;
 int main()
 {
 
-    int x = 3124543;
+    int x = 0;
+    cout << "Enter the number: ";
+    cin >> x;
+
     const int capacity = 1000;
     int nums[capacity];
 
