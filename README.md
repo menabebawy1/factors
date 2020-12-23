@@ -14,10 +14,6 @@ This image shows the pattern from 1 to 100
 
 
 The images below show the pattern from 1 to 1000:
-![1 to 1000](two.png)
-
-![1 to 1000](three.png)
-
-![1 to 1000](four.png)
+![1 to 1000](combined.png)
 
 I did not find a particular pattern. The factors seem to increase as you move up the number line. The number 480 also has more factors than 1-1000.
