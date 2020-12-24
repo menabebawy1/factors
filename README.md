@@ -8,8 +8,8 @@ I was curious to see how the number of factors as you move up the number line. s
 
 I then "graphed" the results:
 
+The images below show the pattern from 1 to 100:
 ![1 to 100](one.png)
-This image shows the pattern from 1 to 100
 
 
 
