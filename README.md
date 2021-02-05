@@ -9,7 +9,7 @@ I was curious to see how the number of factors changed along the number line. so
 I then "graphed" the results:
 
 ![1 to 100](one.png)
-This image shows the pattern from 1 to 100
+This image shows the pattern from 1 to 100.
 
 
 
